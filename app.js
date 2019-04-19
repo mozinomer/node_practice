@@ -1,7 +1,6 @@
 const filesystem = require('fs')
 
 
+const gg = require('./util.js')
 
-filesystem.writeFileSync('notes.txt','second thing u wann write');
-
-filesystem.appendFileSync('notes.txt','   appended text');
+console.log(gg)
