@@ -1,0 +1,25 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "mozin omer projects",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "npm-install-all": "^1.1.21",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozinomer/node_practice.git"
+  },
+  "author": "mozin omer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mozinomer/node_practice/issues"
+  },
+  "homepage": "https://github.com/mozinomer/node_practice#readme"
+}
